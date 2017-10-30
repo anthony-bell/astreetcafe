@@ -1,7 +1,6 @@
 
 **NOTE**
-This is all original work, images, etc. The design came from a freehtml5 download, check down below for credits 
-and sources.
+The images are all original and taken from A Street Cafe. The design came from a freehtml5 download, check down below for credits and sources.
 
 
 TITLE: 
