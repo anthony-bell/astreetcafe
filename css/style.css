@@ -833,11 +833,11 @@ p {
 }
 #fh5co-menus .fh5co-food-menu ul li { /*size of box for each item*/
   padding: 0 0 20px 0;
-  margin: 0 0 20px 0;
+  margin: 0 0 20px 43px;
   border-bottom: 1px dotted #ccc;
   display: block;
   float: left;
-  width: 50%;
+  width: 79%;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-desc { /*inner text alignment*/
   clear: both;
@@ -845,7 +845,7 @@ p {
   width: 80%;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-desc > figure { /*picture menu size*/
-  width: 5%;
+  width: 30%;
   float: left;
   position: relative;
   margin-right: 4%;
@@ -859,8 +859,8 @@ p {
   margin-bottom: 0;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-desc > div { /*size of inner txt*/
-  width: 75%;
-  float: left;
+  width: 166%;
+  /* float: left; */
   position: relative;
   font-size: 10px;
   line-height: 1.5;
