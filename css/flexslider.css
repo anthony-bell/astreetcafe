@@ -46,6 +46,7 @@
 }
 .flexslider .slides > li {
   display: none;
+  height: 220px; /* The height of the comments*/
   -webkit-backface-visibility: hidden;
 }
 .flexslider .slides img {
@@ -102,7 +103,8 @@ html[xmlns] .flexslider .slides {
   transition: all 1s ease;
 }
 .loading .flex-viewport {
-  max-height: 300px;
+  max-height: 500px;
+  
 }
 .carousel li {
   margin-right: 5px;

@@ -171,6 +171,10 @@ p {
   box-shadow: none;
 }
 
+.checked {
+  color: orange;
+}
+
 .form-control {
   box-shadow: none;
   background: transparent;
@@ -372,6 +376,12 @@ p {
 }
 .fh5co-heading .sub-heading {
   font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+.fh5co-heading .sub-heading2 {
+  font-size: 14px;
+  color: #A08E9A;
   line-height: 1.5;
   margin-bottom: 30px;
 }
